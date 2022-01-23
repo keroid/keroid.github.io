@@ -2,25 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://keroid.github.io</id>
     <title>Keroid的房间</title>
-    <updated>2022-01-23T12:29:01.994Z</updated>
+    <updated>2022-01-23T13:27:06.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://keroid.github.io"/>
     <link rel="self" href="https://keroid.github.io/atom.xml"/>
-    <subtitle>Keroid/kida/回川</subtitle>
+    <subtitle>Keroid/kida/回川&lt;BR&gt; 写点画点，拍东西看东西，IT民工预备役，目标是伟大艺术家</subtitle>
     <logo>https://keroid.github.io/images/avatar.png</logo>
     <icon>https://keroid.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Keroid的房间</rights>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://keroid.github.io/post/hello-gridea/</id>
-        <link href="https://keroid.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
-    </entry>
 </feed>
