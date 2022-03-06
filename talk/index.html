@@ -113,7 +113,7 @@
                         src='https://keroid.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://keroid.github.io/images/avatar.png?v=1645803433997" class="avatar">
+            <img src="https://keroid.github.io/images/avatar.png?v=1646559358248" class="avatar">
         </div>
         <div class="sitename">Keroid的部屋</div>
         <span class="description" data-text='[""]'>&nbsp;</span>
@@ -348,7 +348,7 @@
     
     
     <script>
-        let shareChoice = true
+        let shareChoice = false
     </script>
     
     
@@ -363,6 +363,13 @@
     
     <script>let postsnum = 0;</script>
     <div id="side-posttitle" style="display: none;">
+    
+    
+    恩赐之地
+    <script>
+        postsnum += 1
+    </script>
+    
     
     
     黑色桃花
@@ -1032,6 +1039,16 @@ menulist.eq(i).show();
 </body>
 
 <!-------------------- live2d功能👇 --------------------------->
+
+    <script type="text/javascript">
+        var message_Path = '/live2d/'
+        var home_Path = document.getElementById("domainname").innerHTML+"/"; //此处修改为你的域名，必须带斜杠
+    </script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/js/live2d.js"></script>
+    <script type="text/javascript" src="https://keroid.github.io/media/live2d/js/message.js"></script>
+    <script type="text/javascript">
+            loadlive2d("live2d", "https://keroid.github.io/media/live2d/assets/tororo.model.json");
+    </script>
 
 <!-------------------- live2d功能👆 --------------------------->
 
